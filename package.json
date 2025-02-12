@@ -1,0 +1,16 @@
+{
+  "name": "chanllenge-targetsistemas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "fibonacci": "node src/FibonacciCheck.js",
+    "calcSum": "node src/CalculationSum.js",
+    "calcBilling": "node src/CalculateBilling.js",
+    "percentage": "node src/PercentageRepresentation.js",
+    "invert": "node src/InvertString.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
